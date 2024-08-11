@@ -37,10 +37,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   snippet_coder_utils: ^1.0.12
-  dropdown_search: ^5.0.5
+  dropdown_search: 5.0.5
   flutter_html: ^2.2.1
   email_validator: ^2.1.17
-  syncfusion_flutter_datepicker: ^20.4.44
+  syncfusion_flutter_datepicker: 20.4.44
 
 dev_dependencies:
   flutter_test:
