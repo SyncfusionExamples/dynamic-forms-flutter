@@ -1,11 +1,11 @@
-# dynamicform_differentfields
+# Dynamic form different fields
 
 This repository contains example with dynamic form different fields using Syncfusion® Flutter DateRangePicker.
 
 ## Syncfusion® controls:
  
 This project used the following Syncfusion® widget(s):
-* [DataRangePicker]( https://www.syncfusion.com/flutter-widgets/flutter-daterangepicker)
+* [DateRangePicker]( https://www.syncfusion.com/flutter-widgets/flutter-daterangepicker)
  
 ## Supported platforms
  
